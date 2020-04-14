@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="913.5" height="209.716" viewBox="0 0 913.5 209.716">
+  <g id="Group_58" data-name="Group 58" transform="translate(-370.5 -464.464)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-497.36 338.68)">
+      <g id="Group_1" data-name="Group 1" transform="translate(870.36 129.32)">
+        <path id="Path_32" data-name="Path 32" d="M14884.826,317.274h-164.054A43.777,43.777,0,0,1,14677,273.5V216.82a43.773,43.773,0,0,1,43.772-43.772h164.054a43.773,43.773,0,0,1,43.772,43.772V273.5A43.777,43.777,0,0,1,14884.826,317.274Z" transform="translate(-14677 -113.594)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+        <path id="Path_33" data-name="Path 33" d="M14688.219,164l52.559,52.562L14794.935,164" transform="translate(-14614.501 -164)" fill="none" stroke="#fafafa" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+        <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="22.996" cy="36.137" rx="22.996" ry="36.137" transform="translate(55.848 95.27)" fill="#fff"/>
+        <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="22.996" cy="36.137" rx="22.996" ry="36.137" transform="translate(151.117 95.27)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Stream_Well" data-name="Stream Well" transform="translate(696 638)" fill="#fff" font-size="100" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">Stream Well</tspan></text>
+  </g>
+</svg>
